@@ -24,10 +24,7 @@
 - ✅ Biometric (Fingerprint/Face)
 - ✅ ปลดล็อคเมื่อเปิดแอป
 
-### 📊 หน้าสรุป (Summary)
-- ✅ เลือกช่วงเวลา (สัปดาห์/เดือน/ปี)
-- ✅ รายรับ vs รายจ่าย
-- ✅ สรุปตามหมวดหมู่
+---
 
 - state management (Riverpod / Bloc)
 - database จริง (Isar แนะนำสุด)
